@@ -2,7 +2,7 @@
 #include <ansi.h>
 
 inherit SWORD;
-
+//
 void create()
 {
         set_name(HIW"Ά΄σο"NOR,({"dongxiao",  "xiao"}));

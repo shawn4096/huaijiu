@@ -1,5 +1,5 @@
 string msg = "";
-
+//
 void create()
 {
 	seteuid(getuid());
