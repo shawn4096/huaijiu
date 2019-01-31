@@ -1,0 +1,940 @@
+Dec 27 22:38:17 help
+Dec 27 22:38:27 mulu
+Dec 27 22:38:30 look mulu
+Dec 27 22:38:49 look
+Dec 27 22:38:50 new
+Dec 27 22:38:52 news
+Dec 27 22:38:55 news post
+Dec 27 22:39:01 news post ²âÊÔ
+Dec 27 22:39:14 news post ÐÂÕ¾²âÊÔ
+Dec 27 22:40:11 news
+Dec 27 22:40:14 news 1
+Dec 27 22:41:49 look
+Dec 27 22:41:57 help cmd
+Dec 27 22:41:57 cmd
+Dec 27 22:41:59 help
+Dec 27 22:42:06 help commands
+Dec 27 22:42:06 commands
+Dec 27 22:42:16 help wizcmds
+Dec 27 22:42:16 wizcmds
+Dec 27 22:44:52 look
+Dec 27 22:44:55 goto
+Dec 27 22:45:00 goto city
+Dec 27 22:45:01 look
+Dec 27 22:45:03 go down
+Dec 27 22:45:12 look
+Dec 27 22:45:13 go east
+Dec 27 22:45:16 enter
+Dec 27 22:45:21 out
+Dec 27 22:45:25 look yp
+Dec 27 22:45:27 look up
+Dec 27 22:45:31 look down
+Dec 27 22:45:33 go down
+Dec 27 22:45:34 go southeast
+Dec 27 22:48:38 set look
+Dec 27 22:48:39 look
+Dec 27 22:48:40 go east
+Dec 27 22:48:41 go south
+Dec 27 22:48:42 go west
+Dec 27 22:48:43 go east
+Dec 27 22:48:43 go south
+Dec 27 22:48:44 look
+Dec 27 22:48:45 go west
+Dec 27 22:48:46 go west
+Dec 27 22:48:46 go west
+Dec 27 22:48:47 go west
+Dec 27 22:48:47 go west
+Dec 27 22:48:48 go west
+Dec 27 22:48:48 go west
+Dec 27 22:48:49 go west
+Dec 27 22:48:49 go west
+Dec 27 22:48:50 go west
+Dec 27 22:48:50 go west
+Dec 27 22:48:51 go west
+Dec 27 22:48:52 go west
+Dec 27 22:48:52 go west
+Dec 27 22:48:53 go west
+Dec 27 22:48:53 go east
+Dec 27 22:48:54 go east
+Dec 27 22:49:26 go east
+Dec 27 22:49:27 go north
+Dec 27 22:49:28 go north
+Dec 27 22:49:31 enter
+Dec 27 22:49:37 look
+Dec 27 22:49:43 out
+Dec 27 22:50:02 goto /d/xiangyang/eroad1
+Dec 27 22:50:05 look
+Dec 27 22:50:06 go west
+Dec 27 22:50:08 go south
+Dec 27 22:50:08 go south
+Dec 27 22:50:09 go north
+Dec 27 22:50:10 go north
+Dec 27 22:50:14 smash guo xiang
+Dec 27 22:50:50 inventory
+Dec 27 22:50:52 score
+Dec 27 22:51:13 clone
+Dec 27 22:51:16 clone gold
+Dec 27 22:51:25 help clone
+Dec 27 22:51:25 clone
+Dec 27 22:51:42 look
+Dec 27 22:51:45 show
+Dec 27 22:52:03 map xiangyang
+Dec 27 22:52:10 map xiangyang
+Dec 27 22:52:14 help map xiangyang
+Dec 27 22:53:52 look
+Dec 27 22:53:53 go north
+Dec 27 22:53:54 go east
+Dec 27 22:53:55 go west
+Dec 27 22:53:55 go south
+Dec 27 22:53:55 go east
+Dec 27 22:53:56 go north
+Dec 27 22:53:57 enter
+Dec 27 22:53:58 go north
+Dec 27 22:53:58 go north
+Dec 27 22:54:00 go northup
+Dec 27 22:54:02 go north
+Dec 27 22:54:03 enter
+Dec 27 22:54:04 go east
+Dec 27 22:54:05 go north
+Dec 27 22:54:06 go east
+Dec 27 22:54:06 go east
+Dec 27 22:54:12 ask qi about µÒÔÆ
+Dec 27 22:54:31 goto /d/xiangyang/eroad1
+Dec 27 22:54:45 go south
+Dec 27 22:55:25 look
+Dec 27 22:55:26 go east
+Dec 27 22:55:27 go north
+Dec 27 22:55:28 go west
+Dec 27 22:55:30 go west
+Dec 27 22:55:30 go west
+Dec 27 22:55:31 go west
+Dec 27 22:55:32 go south
+Dec 27 22:55:35 look lv
+Dec 27 22:55:37 inventory
+Dec 27 22:55:38 go north
+Dec 27 22:55:39 go north
+Dec 27 22:55:39 go south
+Dec 27 22:55:40 go south
+Dec 27 22:55:45 modefy
+Dec 27 22:55:45 look
+Dec 27 22:55:55 edit ymdatang
+Dec 27 22:56:06 edit /d/xiangyang/ymdatang
+Dec 28 08:50:10 go east
+Dec 28 08:50:25 go west
+Dec 28 08:50:27 go down
+Dec 28 08:52:40 go west
+Dec 28 08:52:40 look
+Dec 28 08:52:42 go down
+Dec 28 08:52:50 go up
+Dec 28 08:52:51 go east
+Dec 28 08:53:06 go east
+Dec 28 08:53:07 look
+Dec 28 08:53:09 look
+Dec 28 08:53:10 go west
+Dec 28 08:53:11 go east
+Dec 28 08:53:14 go west
+Dec 28 08:53:16 go east
+Dec 28 08:53:16 go west
+Dec 28 08:53:29 go east
+Dec 28 08:53:30 look
+Dec 28 08:54:17 look
+Dec 28 08:54:19 go west
+Dec 28 08:54:21 go down
+Dec 28 08:54:21 go southeast
+Dec 28 08:54:24 look
+Dec 28 08:54:29 go southeast
+Dec 28 08:54:30 look
+Dec 28 08:58:41 look
+Dec 28 08:58:43 go south
+Dec 28 08:58:45 go down
+Dec 28 08:58:47 look
+Dec 28 08:58:53 look
+Dec 28 08:58:54 look
+Dec 28 08:58:54 look
+Dec 28 08:58:54 look
+Dec 28 09:01:26 look
+Dec 28 09:01:28 look
+Dec 28 09:01:38 look
+Dec 28 09:01:38 look
+Dec 28 09:01:38 look
+Dec 28 09:01:39 look
+Dec 28 09:01:39 look
+Dec 28 09:01:39 look
+Dec 28 09:01:40 look
+Dec 28 09:03:38 =l
+Dec 28 09:03:39 look
+Dec 28 09:03:41 go east
+Dec 28 09:03:43 k
+Dec 28 09:03:43 look
+Dec 28 09:03:46 look board
+Dec 28 09:03:54 read 1
+Dec 28 09:04:26 discard 1
+Dec 28 09:04:29 discard 2
+Dec 28 09:04:30 discard 3
+Dec 28 09:04:31 discard 4
+Dec 28 09:04:33 discard 5
+Dec 28 09:04:34 discard 1
+Dec 28 09:04:34 discard 1
+Dec 28 09:04:35 discard 1
+Dec 28 09:04:35 discard 1
+Dec 28 09:04:35 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:36 discard 1
+Dec 28 09:04:37 discard 1
+Dec 28 09:04:37 discard 1
+Dec 28 09:04:37 look
+Dec 28 09:04:42 save
+Dec 28 09:04:43 look
+Dec 28 09:09:09 look
+Dec 28 09:09:10 go down
+Dec 28 09:09:12 go east
+Dec 28 09:11:04 look
+Dec 28 09:11:06 q
+Dec 28 09:11:06 go west
+Dec 28 09:11:08 look
+Dec 28 09:11:08 go east
+Dec 28 09:11:43 look
+Dec 28 09:11:44 go west
+Dec 28 09:11:45 go east
+Dec 28 09:18:21 look
+Dec 28 09:18:23 go west
+Dec 28 09:18:24 go south
+Dec 28 09:18:26 go down
+Dec 28 09:28:26 go southeast
+Dec 28 09:28:33 go east
+Dec 28 09:28:34 go south
+Dec 28 09:28:34 go west
+Dec 28 09:28:34 go west
+Dec 28 09:28:35 go east
+Dec 28 09:28:35 go south
+Dec 28 09:28:36 go east
+Dec 28 09:28:37 go west
+Dec 28 09:28:37 go north
+Dec 28 09:28:37 go east
+Dec 28 09:28:38 go east
+Dec 28 09:28:48 go west
+Dec 28 09:28:48 go east
+Dec 28 09:28:49 look
+Dec 28 09:28:53 go west
+Dec 28 09:28:53 go west
+Dec 28 09:28:53 go west
+Dec 28 09:28:54 go west
+Dec 28 09:28:54 go east
+Dec 28 09:28:55 go south
+Dec 28 09:28:56 go west
+Dec 28 09:28:56 go west
+Dec 28 09:28:56 go west
+Dec 28 09:28:56 go west
+Dec 28 09:28:57 go west
+Dec 28 09:28:57 go west
+Dec 28 09:28:57 go west
+Dec 28 09:28:58 go west
+Dec 28 09:28:58 go west
+Dec 28 09:28:58 go west
+Dec 28 09:28:59 go west
+Dec 28 09:29:00 go west
+Dec 28 09:29:00 go west
+Dec 28 09:29:00 go west
+Dec 28 09:29:01 go east
+Dec 28 09:29:01 go east
+Dec 28 09:29:03 go east
+Dec 28 09:29:05 go north
+Dec 28 09:29:06 go north
+Dec 28 09:29:07 enter
+Dec 28 09:29:08 go north
+Dec 28 09:29:09 look
+Dec 28 09:29:12 go north
+Dec 28 09:29:14 go south
+Dec 28 09:29:14 go north
+Dec 28 09:29:16 look
+Dec 28 09:29:17 go north
+Dec 28 09:29:22 look board
+Dec 28 09:29:24 look
+Dec 28 09:29:25 go south
+Dec 28 09:29:25 go north
+Dec 28 09:29:27 look board
+Dec 28 09:29:35 look
+Dec 28 09:29:36 go east
+Dec 28 09:29:37 go west
+Dec 28 09:29:38 go west
+Dec 28 09:29:38 go east
+Dec 28 09:30:44 look
+Dec 28 09:30:52 look board
+Dec 28 09:30:53 look board
+Dec 28 09:30:53 look board
+Dec 28 09:30:53 look board
+Dec 28 09:30:53 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:54 look board
+Dec 28 09:30:55 look
+Dec 28 09:30:58 post
+Dec 28 09:31:01 look
+Dec 28 09:32:29 look
+Dec 28 09:32:30 go east
+Dec 28 09:32:31 q
+Dec 28 09:32:32 go west
+Dec 28 09:32:34 look board
+Dec 28 09:33:29 look
+Dec 28 09:33:32 look board
+Dec 28 09:34:13 look
+Dec 28 09:34:13 look
+Dec 28 09:34:14 look
+Dec 28 09:34:14 look
+Dec 28 09:34:14 look
+Dec 28 09:34:14 look
+Dec 28 09:36:45 news
+Dec 28 09:36:47 news 1
+Dec 28 09:36:49 look
+Dec 28 09:36:56 look board
+Dec 28 09:37:00 discard 1
+Dec 28 09:37:00 discard 1
+Dec 28 09:37:02 look
+Dec 28 09:37:05 read 1
+Dec 28 09:37:06 look
+Dec 28 09:37:07 go down
+Dec 28 09:37:13 read 1
+Dec 28 09:37:14 look
+Dec 28 09:37:18 go up
+Dec 28 09:37:19 go east
+Dec 28 09:37:25 go west
+Dec 28 09:37:27 go east
+Dec 28 09:37:31 discard 1
+Dec 28 09:37:31 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:32 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:33 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:34 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:35 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:36 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:37 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:38 discard 1
+Dec 28 09:37:39 look
+Dec 28 09:37:40 go west
+Dec 28 09:37:41 go south
+Dec 28 09:37:42 go down
+Dec 28 09:37:43 go east
+Dec 28 09:37:43 go southeast
+Dec 28 09:37:44 go east
+Dec 28 09:37:45 go south
+Dec 28 09:37:45 go east
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:48 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:49 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:50 discard 1
+Dec 28 09:37:51 go east
+Dec 28 09:37:52 discard 1
+Dec 28 09:37:53 go west
+Dec 28 09:37:53 go west
+Dec 28 09:37:54 go west
+Dec 28 09:37:55 go east
+Dec 28 09:37:55 go south
+Dec 28 09:37:55 go south
+Dec 28 09:37:56 go west
+Dec 28 09:37:57 go north
+Dec 28 09:37:58 go north
+Dec 28 09:37:59 discard 1
+Dec 28 09:37:59 discard 1
+Dec 28 09:37:59 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:38:00 discard 1
+Dec 28 09:39:36 look
+Dec 28 09:39:37 go south
+Dec 28 09:39:38 go south
+Dec 28 09:39:38 go east
+Dec 28 09:39:39 go south
+Dec 28 09:39:39 go south
+Dec 28 09:39:40 go east
+Dec 28 09:39:41 discard 1
+Dec 28 09:39:42 discard 1
+Dec 28 09:39:42 discard 1
+Dec 28 09:39:42 discard 1
+Dec 28 09:39:42 discard 1
+Dec 28 09:39:43 look
+Dec 28 09:40:01 go north
+Dec 28 09:40:02 go north
+Dec 28 09:40:03 go west
+Dec 28 09:40:06 go northwest
+Dec 28 09:40:06 go west
+Dec 28 09:40:06 go west
+Dec 28 09:40:07 go north
+Dec 28 09:40:08 go west
+Dec 28 09:40:09 go west
+Dec 28 09:40:10 go west
+Dec 28 09:40:10 go west
+Dec 28 09:40:10 go west
+Dec 28 09:40:10 go west
+Dec 28 09:40:11 go east
+Dec 28 09:40:11 go east
+Dec 28 09:40:11 go north
+Dec 28 09:40:12 go west
+Dec 28 09:40:12 go west
+Dec 28 09:40:12 go west
+Dec 28 09:40:13 go west
+Dec 28 09:40:13 go west
+Dec 28 09:40:13 go west
+Dec 28 09:40:14 go west
+Dec 28 09:40:14 go west
+Dec 28 09:40:15 go west
+Dec 28 09:40:15 go north
+Dec 28 09:40:16 enter
+Dec 28 09:40:17 go north
+Dec 28 09:40:18 look
+Dec 28 09:40:20 look board
+Dec 28 09:40:21 go north
+Dec 28 09:40:23 go south
+Dec 28 09:40:23 go south
+Dec 28 09:40:24 go south
+Dec 28 09:40:31 goto /d/wuguan/qianting
+Dec 28 09:40:32 look
+Dec 28 09:40:41 goto /d/city/bingyingmen
+Dec 28 09:41:03 goto /d/wudang/guangchang
+Dec 28 09:41:05 go south
+Dec 28 09:41:11 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:12 discard 1
+Dec 28 09:41:13 look
+Dec 28 09:41:46 goto /d/shaolin/pingtai
+Dec 28 09:41:48 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:49 discard 1
+Dec 28 09:41:50 discard 1
+Dec 28 09:41:50 discard 1
+Dec 28 09:41:50 discard 1
+Dec 28 09:41:50 discard 1
+Dec 28 09:41:50 discard 1
+Dec 28 09:41:50 look
+Dec 28 09:41:51 hp
+Dec 28 09:42:18 goto /d/dali/wangfu/damen
+Dec 28 09:42:20 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:21 discard 1
+Dec 28 09:42:22 look
+Dec 28 09:42:41 goto /d/emei/huazangangc
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:43 discard 1
+Dec 28 09:42:45 look
+Dec 28 09:42:58 goto /d/gb/fenduo1
+Dec 28 09:43:00 discard 1
+Dec 28 09:43:00 discard 1
+Dec 28 09:43:00 discard 1
+Dec 28 09:43:00 discard 1
+Dec 28 09:43:01 look
+Dec 28 09:43:15 goto /d/gb/fenduo2
+Dec 28 09:43:16 discard 1
+Dec 28 09:43:17 look
+Dec 28 09:43:35 goto /d/thd/guiyun/qianting
+Dec 28 09:43:38 look board
+Dec 28 09:43:40 look
+Dec 28 09:43:56 goto /d/gumu/rukou
+Dec 28 09:43:58 discard 1
+Dec 28 09:43:58 discard 1
+Dec 28 09:43:58 discard 1
+Dec 28 09:43:58 discard 1
+Dec 28 09:43:59 discard 1
+Dec 28 09:43:59 discard 1
+Dec 28 09:43:59 look
+Dec 28 09:44:12 goto /d/huashan/qianting
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:14 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:15 discard 1
+Dec 28 09:44:16 look
+Dec 28 09:44:16 hp
+Dec 28 09:44:20 save
+Dec 28 09:45:49 goto /d/mingjiao/gmd
+Dec 28 09:45:51 discard 1
+Dec 28 09:45:51 discard 1
+Dec 28 09:45:51 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:52 discard 1
+Dec 28 09:45:53 look
+Dec 28 09:45:54 hp
+Dec 28 09:46:08 goto /d/mr/yanziwu
+Dec 28 09:46:10 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:11 discard 1
+Dec 28 09:46:12 discard 1
+Dec 28 09:46:12 hp
+Dec 28 09:46:13 look
+Dec 28 09:46:29 goto /d/wizard/relax
+Dec 28 09:46:34 look
+Dec 28 09:46:37 out
+Dec 28 09:46:38 look
+Dec 28 09:46:56 goto /d/shaolin/guangchang1
+Dec 28 09:46:59 look board
+Dec 28 09:47:00 look
+Dec 28 09:47:15 goto /d/city/kedian/pianting
+Dec 28 09:47:17 read 1
+Dec 28 09:47:17 look
+Dec 28 09:47:30 goto /d/sld/kongdi
+Dec 28 09:47:32 discard 1
+Dec 28 09:47:32 discard 1
+Dec 28 09:47:33 discard 1
+Dec 28 09:47:33 discard 1
+Dec 28 09:47:33 discard 1
+Dec 28 09:47:33 discard 1
+Dec 28 09:47:33 discard 1
+Dec 28 09:47:34 look
+Dec 28 09:47:35 hp
+Dec 28 09:47:52 goto /d/songshan/chanyuan
+Dec 28 09:47:54 discard 1
+Dec 28 09:47:54 discard 1
+Dec 28 09:47:55 discard 1
+Dec 28 09:47:55 discard 1
+Dec 28 09:47:55 discard 1
+Dec 28 09:47:55 discard 1
+Dec 28 09:47:56 look
+Dec 28 09:47:57 hp
+Dec 28 09:48:43 goto /d/xingxiu/ryd1
+Dec 28 09:48:45 discard 1
+Dec 28 09:48:45 discard 1
+Dec 28 09:48:45 discard 1
+Dec 28 09:48:45 discard 1
+Dec 28 09:48:45 discard 1
+Dec 28 09:48:46 discard 1
+Dec 28 09:48:46 discard 1
+Dec 28 09:48:46 look
+Dec 28 09:48:47 hp
+Dec 28 09:48:59 goto /d/xueshan/guangchang
+Dec 28 09:49:01 discard 1
+Dec 28 09:49:01 discard 1
+Dec 28 09:49:01 discard 1
+Dec 28 09:49:02 discard 1
+Dec 28 09:49:02 look
+Dec 28 09:49:20 look board
+Dec 28 09:49:23 read 1
+Dec 28 10:42:28 look
+Dec 28 10:42:31 go east
+Dec 28 10:42:34 go west
+Dec 28 10:42:35 go east
+Dec 28 10:42:37 fengyun
+Dec 28 10:42:38 look
+Dec 28 10:42:42 out
+Dec 28 10:42:43 look
+Dec 28 10:42:45 leave
+Dec 28 10:42:46 look
+Dec 28 10:42:48 go west
+Dec 28 10:42:51 look sign
+Dec 28 10:42:58 tui
+Dec 28 10:43:02 tui ilovemin
+Dec 28 10:43:04 look
+Dec 28 10:43:13 goto /d/wizard/wizard_room
+Dec 28 10:43:15 look
+Dec 28 10:43:16 hp
+Dec 28 10:43:17 go up
+Dec 28 10:43:23 look
+Dec 28 10:43:24 go down
+Dec 28 10:43:26 enter
+Dec 28 10:43:31 out
+Dec 28 10:43:32 go east
+Dec 28 10:43:35 go southeast
+Dec 28 10:43:37 go up
+Dec 28 10:43:43 look snooper1
+Dec 28 10:43:50 anniu
+Dec 28 10:43:53 look anniu
+Dec 28 10:43:58 push anniu
+Dec 28 10:44:14 look sign
+Dec 28 10:44:21 look
+Dec 28 10:44:22 go down
+Dec 28 10:44:25 go west
+Dec 28 10:44:27 go down
+Dec 28 10:44:28 go southeast
+Dec 28 10:44:30 go east
+Dec 28 10:44:31 go west
+Dec 28 10:44:32 go east
+Dec 28 10:44:32 go south
+Dec 28 10:44:33 go east
+Dec 28 10:44:35 go east
+Dec 28 10:44:37 kill lu
+Dec 28 10:44:38 go west
+Dec 28 10:44:49 inventory
+Dec 28 10:45:36 look
+Dec 28 10:45:39 enter
+Dec 28 10:45:39 look
+Dec 28 10:46:05 look
+Dec 28 10:46:07 out
+Dec 28 10:46:10 out
+Dec 28 10:46:13 out
+Dec 28 10:46:14 enter
+Dec 28 10:46:15 look
+Dec 28 10:46:18 goto /d/wizard/wizard_room
+Dec 28 10:46:19 hp
+Dec 28 10:46:21 score
+Dec 28 10:46:36 look
+Dec 28 10:46:37 hp
+Dec 28 10:46:43 recover
+Dec 28 10:46:51 recover ilovemin
+Dec 28 10:47:02 recover ilovemin 1 because 1
+Dec 28 10:47:07 hp
+Dec 28 10:47:09 score
+Dec 28 10:47:12 skills
+Dec 28 10:47:13 look
+Dec 28 10:47:17 go east
+Dec 28 10:47:18 go west
+Dec 28 10:47:18 go down
+Dec 28 10:47:19 go southeast
+Dec 28 10:47:20 go east
+Dec 28 10:47:20 go south
+Dec 28 10:47:27 snoop testa
+Dec 28 10:47:42 snoop none
+Dec 28 10:47:43 look
+Dec 28 10:48:19 summon testa
+Dec 28 10:48:20 look
+Dec 28 10:48:42 help call
+Dec 28 10:48:42 call
+Dec 28 10:49:08 all testa->set("combat_exp",1000000)
+Dec 28 10:49:13 call testa->set("combat_exp",1000000)
+Dec 28 10:49:19 call testa->set("combat_exp",1000000) because 1
+Dec 28 10:49:22 look
+Dec 28 10:50:04 summon testb
+Dec 28 10:50:10 call testb->set("combat_exp",1000000) because 1
+Dec 28 10:51:37 call testb->set("age",20) because 1
+Dec 28 10:55:03 sumom testa
+Dec 28 10:55:08 summom testa
+Dec 28 10:55:11 summon testa
+Dec 28 10:55:15 look
+Dec 28 10:55:15 hp
+Dec 28 10:55:18 score
+Dec 28 10:59:16 team with testa
+Dec 28 11:05:28 goto /d/thd/cave
+Dec 28 11:06:00 ask zhou about ¹ÊÊÂ
+Dec 28 11:06:14 ask zhou about ½á°Ý
+Dec 28 11:06:22 ask zhou about ¾ÅÒõÕæ¾­
+Dec 28 11:08:51 goto /d/dali/wangfu/nuange
+Dec 28 11:08:58 ask duan about ¶ÎÓþ
+Dec 28 11:09:06 ask duan about Óª¾È
+Dec 28 11:09:11 ask duan about ´î¾È
+Dec 28 11:13:46 goto chen xuanfeng

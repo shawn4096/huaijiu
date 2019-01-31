@@ -1,0 +1,90 @@
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/feature/treemap.c line 1: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 13: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 29: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 40: Warning: Illegal to declare nosave function. before mapping map, string 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/feature/move.c line 6: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/d/wuguan/npc/jiaotou.c line 52: Warning: Number of arguments disagrees with previous definition. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/cmds/adm/map.c line 3: Undefined function lpc_info before ));
+/d/baituo/shidui.c line 120: Warning: Number of arguments disagrees with previous definition. before 
+/d/baituo/yuanzi.c line 133: Warning: Number of arguments disagrees with previous definition. before 
+/d/baituo/yuanzi4.c line 83: Warning: Number of arguments disagrees with previous definition. before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/tohtml.c line 175: Warning: Unused local variable 'ppls' before 
+/d/city/tohtml.c line 175: Warning: Unused local variable 'sn' before 
+/d/city/tohtml.c line 175: Warning: Unused local variable 'ltime' before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/d/city/npc/xiaosong.c line 59: Bad type for argument 1 of is_killing ( string vs object ) before  ) return "Äã¼ÈÈ»Öªµ
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/job_mul.h line 106: syntax error before                :70,/
+/include/job_mul.h line 106: syntax error before                :70,/
+/include/job_mul.h line 106: syntax error before                :70,/
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/d/fuzhou/hubiao/linzhennan.c line 408: Warning: Unused local variable 'local' before 
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/sld/haitan.c line 117: Warning: Unused local variable 'room' before the end of line
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'i' before the end of line
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'site' before the end of line
+/clone/armor/rwj.c line 22: Warning: Number of arguments disagrees with previous definition. before 
+/clone/armor/rwj.c line 22: Warning: Function ob_hit inherited from '/inherit/misc/equip.c' does not match current function in return type ( void vs int ) before 
+/d/xingxiu/npc/ding.c line 10: Warning: redefinition of #define TIME_TICK before 
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/clone/npc/wizard.c line 184: Warning: Unused local variable 'time' before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/include/regions.h line 9: syntax error before  area_names = ([

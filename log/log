@@ -1,0 +1,1056 @@
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/feature/treemap.c line 1: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 13: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 29: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 40: Warning: Illegal to declare nosave function. before mapping map, string 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/feature/move.c line 6: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 260: Warning: Unused local variable 'obj1' before 
+/adm/daemons/questd.c line 260: Warning: Unused local variable 'obj2' before 
+/adm/daemons/questd.c line 260: Warning: Unused local variable 'obj3' before 
+/adm/daemons/questd.c line 260: Warning: Unused local variable 'next_obj' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'distance' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'altitude' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'directions' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'tmpobj' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'where' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'me' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'room' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'dis' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'alt' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'dir' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'x' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'y' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'z' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'x0' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'y0' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'z0' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'realdis' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'tmp' before 
+/adm/daemons/questd.c line 642: Warning: Unused local variable 'dir1' before 
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/user_weapon.h line 14: syntax error before :	500,\
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/user_weapon.h line 14: syntax error before :	500,\
+/d/wuguan/npc/jiaotou.c line 52: Warning: Number of arguments disagrees with previous definition. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/user_weapon.h line 14: syntax error before :	500,\
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/include/regions.h line 9: syntax error before  area_names = ([
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/include/user_weapon.h line 14: syntax error before :	500,\
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/include/guanfu.h line 8: Warning: redefinition of #define NAME_D before 
+/feature/move.c line 6: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 1: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 13: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 29: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 40: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/vi.c line 196: Undefined variable 'CLR' before HOME+NOR);          
+/feature/vi.c line 647: Undefined variable 'CLR' before HOME +
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 95: syntax error before 
+/adm/daemons/natured.c line 118: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 118: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 118: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 118: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/feature/treemap.c line 1: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 13: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 29: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 40: Warning: Illegal to declare nosave function. before mapping map, string 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/feature/move.c line 6: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/d/wuguan/npc/jiaotou.c line 52: Warning: Number of arguments disagrees with previous definition. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 91: syntax error before  else if (local[2] <
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 93: syntax error before 
+/adm/daemons/natured.c line 116: Illegal LHS before i,totle=0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before totle=0,j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'totle' before 0,j,k;
+/adm/daemons/natured.c line 116: Illegal lvalue before 0,j,k;
+/adm/daemons/natured.c line 116: Warning: Expression has no side effects, and the value is unused before j,k;
+/adm/daemons/natured.c line 116: Undefined variable 'j' before k;
+/adm/daemons/natured.c line 116: Undefined variable 'k' before 
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 94: Warning: Value of conditional expression is unused before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 94: Warning: Value of conditional expression is unused before 
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 89: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 89: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 89: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/natured.c line 89: Undefined variable 'CHINESE_MUD_NAME' before "½«ÔÚ±±¾©Ê±¼ä°ËµãÖÁ¾
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'i' before the end of line
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'site' before the end of line
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/feature/treemap.c line 1: Warning: Unknown #pragma, ignored. before 
+/feature/treemap.c line 13: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 29: Warning: Illegal to declare nosave function. before mapping map, string 
+/feature/treemap.c line 40: Warning: Illegal to declare nosave function. before mapping map, string 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/feature/move.c line 6: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/char/char.c line 5: Warning: Unknown #pragma, ignored. before 
+/inherit/room/room.c line 3: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/d/wuguan/npc/jiaotou.c line 52: Warning: Number of arguments disagrees with previous definition. before 
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'i' before the end of line
+/d/dali/npc/zhuwanli.c line 250: Warning: Unused local variable 'site' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 
+/adm/daemons/combatd.c line 16: Warning: Unknown #pragma, ignored. before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'allp' before 
+/adm/daemons/cron.c line 433: Warning: Unused local variable 'present' before 
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'ob' before the end of line
+/adm/daemons/cron.c line 468: Warning: Unused local variable 'z' before the end of line
+/adm/daemons/explored.c line 74: Warning: Unused local variable 'objfile' before 
+/adm/daemons/explored.c line 151: Warning: Unused local variable 'i' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max_filter' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'max' before 
+/adm/daemons/explored.c line 201: Warning: Unused local variable 'k' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'family' before 
+/adm/daemons/explored.c line 253: Warning: Unused local variable 'times' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'tmp_my' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'exp' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'num' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'shashou' before 
+/adm/daemons/explored.c line 347: Warning: Unused local variable 'living' before 
+/adm/daemons/jobrewardd.c line 42: Warning: redefinition of #define GIFT_D before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'login_cnt' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'ip' before 
+/adm/daemons/logind.c line 221: Warning: Unused local variable 'rows' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'mysql' before 
+/adm/daemons/logind.c line 319: Warning: Unused local variable 'rows' before 
+/adm/daemons/natured.c line 7: Warning: redefinition of #define TIME_TICK before #define ANTIROBOT "/
+/adm/daemons/questd.c line 41: Warning: Redeclaration of global variable 'deny_quest_player'. before the end of line
+/adm/daemons/questd.c line 151: Warning: Unused local variable 'mboth' before the end of line
+/adm/daemons/questd.c line 201: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/questd.c line 279: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/taskd.c line 28: Warning: redefinition of #define TIME_TICK before 

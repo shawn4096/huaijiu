@@ -1,0 +1,410 @@
+Dec 28 15:43:08 score
+Dec 28 15:43:10 who
+Dec 28 15:43:14 chat* ah
+Dec 28 15:44:07 QUIT
+Dec 28 15:44:11 quit
+Dec 28 16:26:42 news
+Dec 28 16:26:48 help news
+Dec 28 16:26:48 news
+Dec 28 16:27:03 news post 关于新站
+Dec 28 16:32:22 news 1
+Dec 28 16:33:28 chat* knock isis
+Dec 28 16:33:55 chat* byebye
+Dec 28 16:33:58 quit
+Dec 28 17:55:58 quit
+Dec 29 04:28:33 passwd
+Dec 29 04:29:08 goto zaqz
+Dec 29 04:29:19 go east
+Dec 29 04:29:20 go south
+Dec 29 04:29:20 go south
+Dec 29 04:29:20 go west
+Dec 29 04:29:54 call zaqz ->set_skill force 30
+Dec 29 04:30:01 call zaqz ->set_force 30
+Dec 29 04:30:17 call zaqz->set_force 30
+Dec 29 04:30:55 call zaqz->set_skill(force,30)
+Dec 29 04:31:37 call zaqz->set_skill(force,30)
+Dec 29 04:31:46 call zaqz->set_skill(force,30)because 1
+Dec 29 04:33:01 call zaqz->set(max_neili,500)
+Dec 29 04:33:11 because 1
+Dec 29 04:33:27 call zaqz->set(max_neili,500)
+Dec 29 04:34:33 call zaqz->set(combat_exp, 100000)
+Dec 29 04:34:37 inventory
+Dec 29 04:37:14 call master->set(combat_exp, 100000)
+Dec 29 04:37:19 hp
+Dec 29 04:40:13 quit
+Dec 29 04:40:21 hp
+Dec 29 04:40:25 goto zaqz
+Dec 29 04:40:51 call zaqz->set(combat_exp, 100000)
+Dec 29 04:41:01 call zaqz->set(combat_exp, 100000) because 1
+Dec 29 04:41:13 call zaqz->set(combat_exp, 6000) because 1
+Dec 29 04:41:57 call zaqz->set(max_neili, 100) because 1
+Dec 29 04:42:46 call zaqz->set_skill(qiantian-yiyang, 20) because 1
+Dec 29 04:42:52 call zaqz->set_skill(force, 20) because 1
+Dec 29 04:44:24 cha zaqz
+Dec 29 04:44:38 top 10
+Dec 29 04:57:57 quit
+Dec 29 15:07:07 reboot 10
+Dec 29 15:11:01 out
+Dec 29 15:11:01 go down
+Dec 29 15:11:03 go southeast
+Dec 29 15:11:03 go east
+Dec 29 15:11:04 go south
+Dec 29 15:11:04 go south
+Dec 29 15:11:05 go west
+Dec 29 15:11:05 go west
+Dec 29 15:11:05 go west
+Dec 29 15:11:05 go west
+Dec 29 15:11:05 go west
+Dec 29 15:11:06 go west
+Dec 29 15:11:06 go west
+Dec 29 15:11:06 go west
+Dec 29 15:11:06 go west
+Dec 29 15:11:06 go west
+Dec 29 15:11:22 go west
+Dec 29 15:11:25 go west
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go southwest
+Dec 29 15:11:25 go southwest
+Dec 29 15:11:25 go southwest
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:25 go south
+Dec 29 15:11:43 kick zaqz
+Dec 29 15:12:16 go west
+Dec 29 15:12:16 go west
+Dec 29 15:12:17 go south
+Dec 29 15:12:17 go south
+Dec 29 15:12:17 go south
+Dec 29 15:12:17 go south
+Dec 29 15:12:19 go west
+Dec 29 15:15:55 top 10
+Dec 29 15:17:53 news post
+Dec 29 15:18:13 news post 1、去除了在线时间的限制；
+Dec 29 15:18:20 news
+Dec 29 15:18:24 news 1
+Dec 29 15:18:35 news 1 2
+Dec 29 15:18:37 news 2
+Dec 29 15:19:01 news post 更新说明
+Dec 29 15:19:11 news 3
+Dec 29 15:20:07 who -l
+Dec 29 15:20:18 goto ilovemin
+Dec 29 15:20:21 hehe
+Dec 29 15:20:23 look
+Dec 29 15:20:33 look
+Dec 29 15:20:38 dunno
+Dec 29 15:22:21 bow
+Dec 29 15:22:22 look
+Dec 29 15:22:26 get_place.h
+Dec 29 15:22:31 get_place.h
+Dec 29 15:22:34 say get_place.h
+Dec 29 15:22:36 say get_place.h?
+Dec 29 15:22:43 say 前面还有指令吧
+Dec 29 15:22:48 look
+Dec 29 15:23:01 set look 1
+Dec 29 15:23:03 look
+Dec 29 15:23:05 set
+Dec 29 15:23:35 shake
+Dec 29 15:23:40 say 怎么放？。。。
+Dec 29 15:23:44 papaya zaqz
+Dec 29 15:23:47 papaya master
+Dec 29 15:24:02 say 我没找他要ftp权限呢
+Dec 29 15:24:13 say 我现在也登不进去吧
+Dec 29 15:24:14 look
+Dec 29 15:24:56 say 得等周一他来了的吧
+Dec 29 15:24:59 inventory
+Dec 29 15:25:00 kill
+Dec 29 15:25:02 look
+Dec 29 15:25:04 laugh
+Dec 29 15:25:14 say 还删档吗？
+Dec 29 15:25:29 nod
+Dec 29 15:25:55 say 怎么把news 删了？
+Dec 29 15:25:57 look
+Dec 29 15:26:26 chat 周一更新，暂时不能set look
+Dec 29 15:26:41 cha lovemin
+Dec 29 15:26:43 cha ilovemin
+Dec 29 15:26:49 hp ilovemin
+Dec 29 15:26:56 quit
+Dec 29 15:29:20 news delete 2
+Dec 29 15:29:23 news
+Dec 29 15:29:26 news 1
+Dec 29 15:29:27 news 2
+Dec 29 15:29:33 quit
+Dec 29 16:36:38 go down
+Dec 29 16:36:39 go southeast
+Dec 29 16:36:39 go east
+Dec 29 16:36:40 go south
+Dec 29 16:36:40 go south
+Dec 29 16:36:40 go south
+Dec 29 16:36:40 go west
+Dec 29 16:36:41 go west
+Dec 29 16:36:41 go west
+Dec 29 16:36:43 go east
+Dec 29 16:36:43 go north
+Dec 29 16:36:43 go north
+Dec 29 16:36:43 go north
+Dec 29 16:36:44 go north
+Dec 29 16:36:46 hp
+Dec 29 16:39:21 hp
+Dec 29 16:40:05 call master->set(combat_exp, 10000000)
+Dec 29 16:40:07 hp
+Dec 29 16:40:46 call master->set_skill(dodge,4650
+Dec 29 16:40:49 call master->set_skill(dodge,465)
+Dec 29 16:40:54 call master->set_skill(cuff,465)
+Dec 29 16:40:58 call master->set_skill(force,465)
+Dec 29 16:41:04 call master->set_skill(parry,465)
+Dec 29 16:41:05 score
+Dec 29 16:41:09 look
+Dec 29 16:41:24 ask gongzi about 周芷若
+Dec 29 16:41:28 ask gong zi about 周芷若
+Dec 29 16:41:29 ask gong zi about 周芷若
+Dec 29 16:41:30 ask gong zi about 周芷若
+Dec 29 16:41:31 ask gong zi about 周芷若
+Dec 29 16:41:42 k gong zi
+Dec 29 16:41:45 kill gong zi
+Dec 29 16:41:49 kill song
+Dec 29 16:41:52 get gold from corpse
+Dec 29 16:41:53 go south
+Dec 29 16:41:53 go south
+Dec 29 16:41:54 go east
+Dec 29 16:41:54 go east
+Dec 29 16:41:54 go east
+Dec 29 16:41:56 go west
+Dec 29 16:41:56 go north
+Dec 29 16:41:56 go north
+Dec 29 16:41:57 go west
+Dec 29 16:41:59 go north
+Dec 29 16:42:01 go north
+Dec 29 16:42:01 go west
+Dec 29 16:42:03 go south
+Dec 29 16:42:03 go south
+Dec 29 16:42:03 go west
+Dec 29 16:42:06 go north
+Dec 29 16:42:06 go west
+Dec 29 16:42:08 go east
+Dec 29 16:42:08 go south
+Dec 29 16:42:08 go west
+Dec 29 16:42:09 go west
+Dec 29 16:42:10 go west
+Dec 29 16:42:14 give gold to zaqz
+Dec 29 16:42:15 quit
+Dec 29 17:19:06 skills
+Dec 29 17:19:32 call zaqz->set_skill(buddhism,20)
+Dec 29 17:19:37 call zaqz->set_skill(buddhism,20) because 1
+Dec 29 17:19:40 quit
+Dec 29 17:20:04 call zaqz->set_skill(buddhism,40) because 1
+Dec 29 17:20:07 quit
+Dec 30 17:26:16 goto zaqz
+Dec 30 17:26:30 hp zaqz
+Dec 30 17:26:42 call zaqz->set(max_jingli,460)
+Dec 30 17:26:47 call zaqz->set(max_jingli,460) because 1
+Dec 30 17:27:11 call zaqz->set(max_jingli,500) because 1
+Dec 30 17:28:02 call zaqz->set(jing,200) because 1
+Dec 30 17:28:23 hp zaqz
+Dec 30 17:28:28 call zaqz->set(jing,300) because 1
+Dec 30 17:28:29 hp
+Dec 30 17:28:31 hp zaqz 
+Dec 30 17:28:39 call zaqz->set(max_jingli,500) because 1
+Dec 30 17:28:42 hp zaqz 
+Dec 30 17:28:54 call zaqz->set(max_jingli,100) because 1
+Dec 30 17:28:55 hp
+Dec 30 17:29:00 hp zaqz
+Dec 30 17:29:07 full zaqz
+Dec 30 17:29:13 fill zaqz
+Dec 30 17:29:16 full
+Dec 30 17:29:23 quit
+Dec 30 17:37:28 call zaqz->set(jingli,500) because 1
+Dec 30 17:37:31 hp zaqz
+Dec 30 17:37:42 call zaqz->set(max_jingli,500) because 1
+Dec 30 17:37:44 hp zaqz
+Dec 30 17:37:51 call zaqz->set(max_jingli,100) because 1
+Dec 30 17:37:52 hp
+Dec 30 17:37:55 hp zaqz 
+Dec 30 17:38:15 call zaqz->set(max_jingli,100) because 1
+Dec 30 17:38:16 quit
+Dec 31 07:32:41 call zaqz->set(max_neili,539) because 10
+Dec 31 07:33:00 quit
+Dec 31 18:27:00 goto leishao
+Dec 31 18:27:26 call leishao->set(combat_exp, 5000)
+Dec 31 18:27:32 call leishao->set(combat_exp, 5000) because 1
+Dec 31 18:28:10 call meishao->set_skill(force,30) because 1
+Dec 31 18:28:16 call leishao->set_skill(force,30) because 1
+Dec 31 18:28:21 call leishao->set_skill(shenyuan-gong,30) because 1
+Dec 31 18:28:27 call leishao->set_skill(,30) because 1
+Dec 31 18:28:47 call leishao->set_skill(literate,30) because 1
+Dec 31 18:28:49 hp
+Dec 31 18:29:50 who
+Dec 31 18:29:53 who -l
+Dec 31 18:30:30 call beckham->set("online_total",0) because 在线时间限制
+Dec 31 18:30:39 call isis->set("online_total",0) because 在线时间限制
+Dec 31 18:30:46 call hshs->set("online_total",0) because 在线时间限制
+Dec 31 18:30:52 call top->set("online_total",0) because 在线时间限制
+Dec 31 18:30:56 call fire->set("online_total",0) because 在线时间限制
+Dec 31 18:31:02 call dummy->set("online_total",0) because 在线时间限制
+Dec 31 18:31:11 call tzssppxj->set("online_total",0) because 在线时间限制
+Dec 31 18:31:16 call score->set("online_total",0) because 在线时间限制
+Dec 31 18:31:20 call blade->set("online_total",0) because 在线时间限制
+Dec 31 18:31:27 call moon->set("online_total",0) because 在线时间限制
+Dec 31 18:31:31 call more->set("online_total",0) because 在线时间限制
+Dec 31 18:31:39 call dgb->set("online_total",0) because 在线时间限制
+Dec 31 18:31:45 call feiwu->set("online_total",0) because 在线时间限制
+Dec 31 18:31:51 call niuniu->set("online_total",0) because 在线时间限制
+Dec 31 18:31:58 call master->set("online_total",0) because 在线时间限制
+Dec 31 18:33:18 call zaqz->set("online_total",0) because 在线时间限制
+Dec 31 18:33:25 call blade->set("online_total",0) because 在线时间限制
+Dec 31 18:35:30 call leishao->set(combat_exp, 6000)
+Dec 31 18:35:34 call leishao->set(combat_exp, 6000) because 1
+Dec 31 18:35:58 call leishao->set_skill(shenyuan-gong,40) because 1
+Dec 31 18:36:05 call leishao->set_skill(force,40) because 1
+Dec 31 18:36:25 call leishao->set_skill(literate,40) because 1
+Dec 31 18:37:00 call leishao>set(max_neili,500)
+Dec 31 18:37:08 call leishao->set(max_neili,500)
+Dec 31 18:37:14 call leishao->set(max_neili,500) because 1
+Dec 31 18:38:04 call zaqz->set(max_jing,500) because 1
+Dec 31 18:38:09 call leishao->set(max_jing,500) because 1
+Dec 31 18:38:34 call leishao->set(max_jingli,500) because 1
+Dec 31 18:38:47 call zaqz->set(max_jingli,1) because 1
+Dec 31 18:38:54 call leishao->set(max_jingli,1) because 1
+Dec 31 18:40:12 call leishao->set(max_jingli,500) because 1
+Dec 31 18:40:32 call leishao->set(eff_jingli,500) because 1
+Dec 31 18:41:12 full leishao
+Dec 31 18:44:24 goto zaqz
+Dec 31 18:44:27 goto leishao
+Dec 31 18:44:28 go south
+Dec 31 18:44:29 go south
+Dec 31 18:44:34 go east
+Dec 31 18:44:35 go south
+Dec 31 18:44:35 go west
+Dec 31 18:44:36 go west
+Dec 31 18:44:36 go west
+Dec 31 18:44:36 go north
+Dec 31 18:44:38 go east
+Dec 31 18:44:40 go south
+Dec 31 18:44:42 go south
+Dec 31 18:44:43 go west
+Dec 31 18:44:43 go west
+Dec 31 18:44:44 go north
+Dec 31 18:44:44 go north
+Dec 31 18:44:44 go north
+Dec 31 18:44:44 go north
+Dec 31 18:44:51 ask gong zi about 周芷若
+Dec 31 18:44:53 kill song
+Dec 31 18:44:56 get gold from corpse
+Dec 31 18:44:58 go south
+Dec 31 18:44:58 go south
+Dec 31 18:44:58 go east
+Dec 31 18:44:59 go east
+Dec 31 18:45:00 go north
+Dec 31 18:45:00 go west
+Dec 31 18:45:02 go west
+Dec 31 18:45:12 give gold to leishao
+Dec 31 18:45:16 quit
+Dec 31 18:50:00 call leishao->set_skill(medicine,32) because 1
+Dec 31 18:50:24 chat 有有时间问题的请chat
+Dec 31 18:51:40 chat* hehe
+Dec 31 18:52:17 chat* en
+Dec 31 19:03:00 quit
+Dec 31 21:06:05 who
+Dec 31 21:06:23 chat 大家的限制时间都没问题了吧
+Dec 31 22:33:29 hp
+Dec 31 22:33:29 look
+Dec 31 22:33:42 quit
+Jan 01 20:39:22 chat 有要清除时间限制的吗？
+Jan 01 20:40:37 chat 没有full指令
+Jan 01 20:40:44 goto google
+Jan 01 20:40:56 chat 先quit
+Jan 01 20:41:06 goto leishao
+Jan 01 20:41:09 goto leishao
+Jan 01 20:41:33 goto leishao
+Jan 01 20:41:35 get all
+Jan 01 20:41:36 go north
+Jan 01 20:41:40 kill a bi
+Jan 01 20:41:52 enforce max
+Jan 01 20:41:55 enforce 100
+Jan 01 20:42:00 go north
+Jan 01 20:42:02 get all
+Jan 01 20:42:05 goto google
+Jan 01 20:42:09 give tang to google
+Jan 01 20:42:12 give tea to google
+Jan 01 20:42:12 give tea to google
+Jan 01 20:42:16 chat 你给咕咕一盘菏叶冬笋汤。
+Jan 01 20:42:19 chat 你给咕咕一杯香茶。
+Jan 01 20:42:36 look
+Jan 01 20:42:41 let parrot to die
+Jan 01 20:42:55 say 完蛋 喝多了
+Jan 01 20:42:57 score
+Jan 01 20:43:26 chat 没有要清除时间限制的就quit了
+Jan 01 20:43:28 look
+Jan 01 20:43:34 sigh
+Jan 01 20:44:04 chat 22还是24啊
+Jan 01 20:44:10 goto niuniu
+Jan 01 20:44:13 hp
+Jan 01 20:44:26 look
+Jan 01 20:44:31 idle niuniu
+Jan 01 20:44:38 compare niuniu
+Jan 01 20:44:41 inn
+Jan 01 20:44:44 look master
+Jan 01 20:45:52 semote 很不满意
+Jan 01 20:45:55 chat 你看起来约二十多岁，长得有如雷公下凡，八戒返魂！
+Jan 01 20:45:59 chat* heng master
+Jan 01 20:46:17 goto ilovemin
+Jan 01 20:46:22 tsk
+Jan 01 20:46:27 say 没事
+Jan 01 20:46:34 say 看看大家需要清除时间限制不
+Jan 01 20:46:35 look
+Jan 01 20:46:50 chat 下了
+Jan 01 20:46:52 quit
+Jan 02 08:47:41 ZAQ123
+Jan 02 08:47:59 call leishao->set_skill(parry,400
+Jan 02 08:48:02 call leishao->set_skill(parry,40)
+Jan 02 08:48:06 call leishao->set_skill(parry,40) because 1
+Jan 02 08:48:08 quit
+Jan 02 11:08:04 call top->set("online_total",0) because 在线时间限制
+Jan 02 11:08:06 quit
+Jan 02 11:08:23 gotot top
+Jan 02 11:08:28 dead
+Jan 02 11:08:30 look
+Jan 02 11:08:32 kick bbb
+Jan 02 11:08:38 goto top
+Jan 02 11:08:43 say top quit先
+Jan 02 11:08:43 say top quit先
+Jan 02 11:08:45 look
+Jan 02 11:09:05 reply 那我quit了
+Jan 02 11:09:05 reply 那我quit了
+Jan 02 11:09:07 quit
+Jan 02 17:00:37 who -l
+Jan 04 07:23:23 go down
+Jan 04 07:23:25 go southeast
+Jan 04 07:23:34 summon leishao
+Jan 04 07:23:36 hp
+Jan 04 07:23:39 look
+Jan 04 07:23:43 quit
+Jan 04 21:48:05 call leishao->set_skill(qimen-bagua,31)
+Jan 04 21:48:10 call leishao->set_skill(qimen-bagua,31) because 1
+Jan 04 21:48:20 call leishao->set_skill(canhe-zhi,101) because 1
+Jan 04 21:48:31 call leishao->set_skill(murong-jianfa,101) because 1
+Jan 04 21:48:41 call leishao->set_skill(yanling-shenfa,101) because 1
+Jan 04 21:48:57 call leishao->set_skill(literate,101) because 1
+Jan 04 21:48:59 inventory
+Jan 04 21:49:00 quit
+Jan 04 21:55:44 call leishao->set_skill(sword,101) because 1
+Jan 04 21:55:53 quit
+Jan 17 14:30:56 register @em
+Jan 17 14:30:56 ask qi about 容貌
+Jan 17 14:30:56 go east
+Jan 17 14:30:56 ask qi about 容貌
+Jan 17 14:30:56 go south
+Jan 17 14:30:56 ask qi about 容貌
+Jan 17 14:30:56 go north
+Jan 17 14:30:56 go west
+Jan 17 14:30:56 go west
+Jan 17 14:30:56 ask qi about 容貌
